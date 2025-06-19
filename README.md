@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aashujeet Rai</h1>
-<h3 align="center">A Passionated Mern Stack Developer. Creating Amazing and Unique Website/BLog/Sites</h3>
+<h3 align="center">A Passionated Web Developer. Creating Amazing and Unique Website/BLog/Sites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashujeet6260&label=Profile%20views&color=0e75b6&style=flat" alt="aashujeet6260" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashujeet6260" alt="aashujeet6260" /></a> </p>
 
-- 🔭 I’m currently working on MERN **AI image Generation App using MERN**
+- 🔭 I’m currently working on  AI Generation using Python and planning to integrate into my following website project 
 
-- 🌱 I’m currently learning **React/Nodejs**
+- 🌱 I’m currently learning **Nodejs**
 
 - 📫 How to reach me **aashujeet.rai**
 
