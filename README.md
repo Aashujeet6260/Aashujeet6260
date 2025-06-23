@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 📫 How to reach me **aashujeet.rai**
+- 📫  Reach me on aashujeet2001@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
