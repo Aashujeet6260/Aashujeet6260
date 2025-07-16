@@ -50,6 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
 </a>
 
+
 <!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -67,13 +68,12 @@
 </a>
 
 <!-- Tools & Platforms -->
-<a href="https://ngrok.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/ngrok.svg" alt="Ngrok" width="40" height="40"/>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/ngrok-blue?style=flat-square&logo=ngrok" alt="Ngrok" width="80" height="20"/>
 </a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/>
 </a>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashujeet6260&show_icons=true&locale=en&layout=compact" alt="aashujeet6260" /></p>
