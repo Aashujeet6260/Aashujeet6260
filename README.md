@@ -31,8 +31,6 @@ Currently, I'm focused on expanding my portfolio, contributing to open-source pr
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aashujeet rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashujeet rai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aashez gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aashez gaming" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aashujeet rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashujeet rai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">## 🛠️ Tech Stack</h3>
