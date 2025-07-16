@@ -1,17 +1,31 @@
 <h1 align="center">Hi 👋, I'm Aashujeet Rai</h1>
-<h3 align="center">A Passionated Web Developer. Creating Amazing and Unique Website/BLog/Sites</h3>
+<h3 align="left">And I am a Full Stack Web Developer with practical experience in building responsive web applications, integrating RESTful APIs, and managing databases.</h3>
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+<p>A passionate and self-driven Full Stack Web Developer with a background in Computer Science and a love for building meaningful, real-world applications. I specialize in both frontend and backend development, with hands-on experience using technologies like Python, C++, Node.js, FastAPI, MongoDB, and PostgreSQL.
+
+I’ve developed multiple projects—from desktop apps to responsive web platforms—that demonstrate my ability to integrate APIs, manage databases, and create smooth user experiences. I recently completed a full-stack internship where I worked on live applications and deepened my skills in RESTful API development and backend routing.
+
+Currently, I'm focused on expanding my portfolio, contributing to open-source projects, and continuously learning new technologies. I enjoy solving problems with clean, efficient code and am always exploring ways to blend creativity with functionality.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashujeet6260&label=Profile%20views&color=0e75b6&style=flat" alt="aashujeet6260" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashujeet6260" alt="aashujeet6260" /></a> </p>
 
-- 🔭 I’m currently working on  AI Generation using Python and planning to integrate into my following website project 
+- 🔭 Currently enhancing my full-stack development skills by building real-world projects using Python, Node.js, FastAPI, and modern databases. Actively working on portfolio development, contributing to GitHub, and exploring advanced concepts in backend APIs, database integration, and responsive UI design.
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Angular**
 
 - 📫  Reach me on aashujeet2001@gmail.com
   
 -  🔗 [Portfolio](https://aashujeet6260.github.io/mainport.github.io/)
+
+<br>
+
+<img src = "https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2NTM5NDksIm5iZiI6MTc1MjY1MzY0OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE2VDA4MTQwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY2NjBmZTA3MDczYTczZThkZDlmYjUwM2M4ZTRiNWJhNzMwMWI1ZjY3NzFhZWEyNmJmNGExZDY0NGUyMWE1MmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yfescXPI33ph9VkMjaxkeQkv1UHy9zViub6cKUOzqv4"></img>
+
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -74,6 +88,36 @@
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/>
 </a>
+
+
+## 🚀 Projects
+
+Here are some of the real-world projects I’ve built to apply my full stack development skills:
+
+### 🎵 Music Player App (Python, Tkinter, Pygame)
+A desktop application with GUI built using Tkinter that supports play, pause, unpause, and stop functionality. Songs are dynamically loaded using the OS module.
+
+### 🏦 Bank Management System (C++)
+A menu-driven console application for managing bank accounts, using Object-Oriented Programming and file handling with standard libraries like `<vector>` and `<iostream>`.
+
+### 🎧 Spotify Website Clone (HTML, CSS, JavaScript, Node.js)
+A responsive clone of Spotify with dynamic UI, music play/pause functionality, and backend streaming using Node.js and the `fs` module.
+
+### 🔗 GitHub Webhook Receiver (Flask, MongoDB, Ngrok)
+A backend system that captures GitHub events like push and pull requests using Flask and stores them in MongoDB. Ngrok is used for local testing and tunneling.
+
+### 😊 Emotion Reflection Tool (Next.js, FastAPI)
+A full stack web app where users submit reflections that are analyzed by a mock emotion API. Built using Next.js (TypeScript) on the frontend and FastAPI (Python) on the backend.
+
+### 📄 KPA Form Backend APIs (FastAPI, PostgreSQL)
+Developed and tested RESTful APIs for KPA form data based on Swagger and Postman specs. Includes request validation, PostgreSQL integration, and API documentation.
+
+👉 **Check out my full portfolio**: [https://aashujeet6260.github.io/mainport.github.io/](https://aashujeet6260.github.io/mainport.github.io/)
+
+
+<br>
+
+ <img src="https://private-user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2NTM5NDksIm5iZiI6MTc1MjY1MzY0OSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0NjctODk3Y2Q3NTctZWExZi00OTJkLWFhZjktNmQxNjc0MTc3ZTA4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE2VDA4MTQwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmOGUwODk3NjdiODQ5NTc4ZGYxNDZjZjBkMWI1NDI5OWYxNDgwYjliNmNhMmI5NjYzMjFiODUxYzMwN2Y5ZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WfJ723_UuXP4Gv71niR6jHBYMTCz5SSpWazBd7RuDe4"></img>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashujeet6260&show_icons=true&locale=en&layout=compact" alt="aashujeet6260" /></p>
