@@ -88,28 +88,6 @@ Currently, I'm focused on expanding my portfolio, contributing to open-source pr
 </a>
 
 
-## 🚀 Projects
-
-Here are some of the real-world projects I’ve built to apply my full stack development skills:
-
-### 🎵 Music Player App (Python, Tkinter, Pygame)
-A desktop application with GUI built using Tkinter that supports play, pause, unpause, and stop functionality. Songs are dynamically loaded using the OS module.
-
-### 🏦 Bank Management System (C++)
-A menu-driven console application for managing bank accounts, using Object-Oriented Programming and file handling with standard libraries like `<vector>` and `<iostream>`.
-
-### 🎧 Spotify Website Clone (HTML, CSS, JavaScript, Node.js)
-A responsive clone of Spotify with dynamic UI, music play/pause functionality, and backend streaming using Node.js and the `fs` module.
-
-### 🔗 GitHub Webhook Receiver (Flask, MongoDB, Ngrok)
-A backend system that captures GitHub events like push and pull requests using Flask and stores them in MongoDB. Ngrok is used for local testing and tunneling.
-
-### 😊 Emotion Reflection Tool (Next.js, FastAPI)
-A full stack web app where users submit reflections that are analyzed by a mock emotion API. Built using Next.js (TypeScript) on the frontend and FastAPI (Python) on the backend.
-
-### 📄 KPA Form Backend APIs (FastAPI, PostgreSQL)
-Developed and tested RESTful APIs for KPA form data based on Swagger and Postman specs. Includes request validation, PostgreSQL integration, and API documentation.
-
 👉 **Check out my full portfolio**: [https://aashujeet6260.github.io/mainport.github.io/](https://aashujeet6260.github.io/mainport.github.io/)
 
 
